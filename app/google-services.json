@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "454978331758",
+    "firebase_url": "https://careecosystem-4a951.firebaseio.com",
+    "project_id": "careecosystem-4a951",
+    "storage_bucket": "careecosystem-4a951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454978331758:android:28d9371b52f3b749",
+        "android_client_info": {
+          "package_name": "com.example.careecosystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454978331758-1urruoef0k5p3fvit010kkcphjbb1enl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fKX2sPzQ6Id8EM-ryIuGUa7zyId_1ws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
